@@ -1,0 +1,18 @@
+{
+  "6201-5/01": {
+    "nome": "Desenvolvimento de programas de computador sob encomenda",
+    "aliquotaBase": {
+      "Simples Nacional": 0.06,
+      "Lucro Presumido": 0.13,
+      "Lucro Real": 0.18
+    }
+  },
+  "8622-4/00": {
+    "nome": "Serviços de psicologia",
+    "aliquotaBase": {
+      "Simples Nacional": 0.08,
+      "Lucro Presumido": 0.12,
+      "Lucro Real": 0.20
+    }
+  }
+}
